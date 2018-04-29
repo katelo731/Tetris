@@ -4,7 +4,7 @@
 
 The next block would randomly appear and print in the hint zone，
 
-there are 7 kinds of blocks，each of them would appears with 4 random rotation forms.
+there are 7 kinds of blocks，each of them would appear with 4 random rotation forms.
 
 
 You need to let the blocks "disappear"--simply by letting the entire row filled with blocks.
