@@ -4,12 +4,12 @@
 
 The next block would randomly appear and print in the hint zone，
 
-there are 7 kinds of blocks，each of them would appear with 4 random rotation forms.
+there are 7 kinds of blocks，each of them would appear in 1 of 4 random rotation forms.
 
 
-You need to let the blocks "disappear"--simply by letting the entire row filled with blocks.
+You need to let the blocks "disappear" -- simply by letting the entire row filled with blocks.
 
-As you clear more rows in the same time，more scores you get in one operation.
+As you clear more rows in the same time，more scores you will get in one operation.
 
 Once the block stack to the top，the game is over!
 
