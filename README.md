@@ -11,7 +11,7 @@ You need to let the blocks "disappear"--simply by letting the entire row filled 
 
 As you clear more rows in the same time，more scores you get in one operation.
 
-Once the block stack to the top of the ceil，the game is over!
+Once the block stack to the top，the game is over!
 
 ### control : using keyboard
 
