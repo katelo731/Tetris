@@ -2,31 +2,31 @@
 
 ### rules :
 
-The next block would randomly appear and print in the hint zone，
+    The next block would randomly appear and print in the hint zone，
 
-there are 7 kinds of blocks，each of them would appear in 1 of 4 random rotation forms.
+    there are 7 kinds of blocks，each of them would appear in 1 of 4 random rotation forms.
 
 
-You need to let the blocks "disappear" -- simply by letting the entire row filled with blocks.
+    You need to let the blocks "disappear" -- simply by letting the entire row filled with blocks.
 
-As you clear more rows in the same time，more scores you will get in one operation.
+    As you clear more rows in the same time，more scores you will get in one operation.
 
-Once the block stack to the top，the game is over!
+    Once the block stack to the top，the game is over!
 
 ### control : using keyboard
 
-↑ : rotate
+    ↑ : rotate
 
-↓ : move downward
+    ↓ : move downward
 
-← : move to left-hand side
+    ← : move to left-hand side
 
-→ : move to right-hand side
-
-
-space : freeze
-
-re-space : continue
+    → : move to right-hand side
 
 
-esc : escape
+    space : freeze
+
+    re-space : continue
+
+
+    esc : escape
